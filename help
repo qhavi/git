@@ -1,2 +1,0 @@
-1.To delete branch use this command: git branch -d <branch name>
-                                    :git branch -D <branch name>
