@@ -1,2 +1,0 @@
-hi, this is file1 file.
-this is 2nd line
